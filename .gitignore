@@ -22,6 +22,6 @@
 hs_err_pid*
 
 #开发工具生成文件不上传
-*.iml
+/*.iml
 /.idea/
 /target/
